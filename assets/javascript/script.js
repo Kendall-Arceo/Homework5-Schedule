@@ -58,7 +58,7 @@ $(".set-1").on("click", function() {
 })
 
 $(".save-2").on("click", function() {
-    localStorage.setItem("2PM", $("#8").val());  
+    localStorage.setItem("2PM", $("#2").val());  
 }) 
 $(".set-2").on("click", function() {
     localStorage.setItem("2PM", "");
